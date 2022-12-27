@@ -1,12 +1,12 @@
 # dao-jdbc
 
-* Português
-  ** O dao-jdbc é um projeto em java utilizando informações alocadas em um banco de dados.
-  ** No projeto conseguimos inserir, atualizar, deletar e visualizar as informações do banco de dados.
+Português
+* O dao-jdbc é um projeto em java utilizando informações alocadas em um banco de dados.
+* No projeto conseguimos inserir, atualizar, deletar e visualizar as informações do banco de dados.
 
-* English
-  ** The dao-jdbc is a java project using information stored in a database.
-  ** In the project we can insert, update, delete and visualize the information that is in the database.
+English
+ * The dao-jdbc is a java project using information stored in a database.
+ * In the project we can insert, update, delete and visualize the information that is in the database.
 
 ## Meus contatos
 <div> 
