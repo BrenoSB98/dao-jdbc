@@ -2,6 +2,7 @@ package model.dao;
 
 import java.util.List;
 
+import model.entities.Departamento;
 import model.entities.Vendedor;
 
 public interface VendedorDao {
@@ -15,4 +16,6 @@ public interface VendedorDao {
 	Vendedor localizaPorId(Integer id);
 
 	List<Vendedor> localizaTodos();
+
+	List<Vendedor> localizaPorDepartamento(Departamento departamento);
 }
